@@ -1,0 +1,7 @@
+import time
+l=3
+while l>-1:
+ print(f"{l}")
+ l-=1
+ time.sleep(1)
+print("лето оо повезло, повезло1")
